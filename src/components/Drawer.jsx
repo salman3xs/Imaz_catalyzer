@@ -10,7 +10,6 @@ import {
 import "./css/Drawer.css";
 
 class Drawer extends Component {
-  state = {};
   render() {
     return (
       <div className="drawer">
